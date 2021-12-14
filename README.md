@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Wandi Rahman
+- 👀 I’m interested in Cloud Infra Engineering
+- 🌱 I’m currently learning all about DevOps like, CI/CD Pipeline, IaC, Docker, and Kubernetes.
+- 📫 Please reach me at wandirahman13@gmail.com
